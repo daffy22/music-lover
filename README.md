@@ -22,8 +22,6 @@ Proyecto | GitHub - CI
 
 **Music Lover Platform** es una plataforma diseñada para ayudar a los amantes de la música clásica a descubrir nuevas obras musicales de acuerdo con sus emociones, preferencias o épocas favoritas. La aplicación permite a los usuarios registrarse, filtrar piezas por criterios específicos (como época, estado de ánimo o instrumento), recibir recomendaciones automáticas personalizadas y guardar sus obras favoritas. Un panel de administración permite la gestión completa del catálogo de piezas.
 
-Esta plataforma ha sido desarrollada con el objetivo de simular un caso de uso real para backend developers, integrando conceptos clave como seguridad, autenticación JWT, patrones de arquitectura, persistencia de datos, y CI/CD.
-
 ## [Historias de Usuario](https://youtu.be/FJuq_lrM5Cc?si=lQ7RAZFcuBtKftR9)
 | Obtener recomendaciones de obras musicales |
 |-----------------------------|
@@ -48,3 +46,25 @@ Esta plataforma ha sido desarrollada con el objetivo de simular un caso de uso r
 | **Como** *Melómano* queriendo guardar mis piezas favoritas **Puedo** marcar cada pieza como favorito **Para** asi guardarlas y no perderlas      |
 | **Criterios de aceptación**       |
 | **Dado que** quiero guardar mis obras musicales favoritas **Cuando** las marque como favoritas **Entonces** las piezas se guardarán y podré acceder a llas cuando las necesite      |
+
+# :book: Documentación del proyecto
+...
+
+## Interfaz de Usuario
+* [App Music Lover desplegada en ] (https://github.com)
+
+!image
+
+## Front-end: Angular
+### Carpetas
+!images
+
+### Seguridad
+!images
+
+## Back-end: User
+> Spring mediante Arquitectura por Capas
+!capas image
+
+
+
