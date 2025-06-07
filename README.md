@@ -64,7 +64,4 @@ Proyecto | GitHub - CI
 
 ## Back-end: User
 > Spring mediante Arquitectura por Capas
-!capas image
-
-
-
+![](docs/spring-layered.png)
