@@ -12,8 +12,7 @@ Proyecto | GitHub - CI
 
 ## :octocat: Repositorios
 * [Front-end-angular](https://github.com)
-* [Back-end-user](https://github.com)
-* [Back-end-core](https://github.com)
+* [Back-end-spring](https://github.com/daffy22/music-lover-backend)
 
 ## :gear: Instalación del proyecto
 ...
